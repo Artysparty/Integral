@@ -1,2 +1,2 @@
-## :books: Education progect 
+## :books: Education project 
 # Calculating integral using threads in C#.
